@@ -7,4 +7,4 @@ I'm a Junior Frontend Developer who is trying to learn new things every day.
 - 🔭 I graduated from Poznan University of Technology with an engineering degree. I studied automation and robotics.
 - 📚 Every day I work with React implementing new solutions for the Material Design for Bootstrap.
 - 👯 I'm open to new ideas and constant development.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jacek-roszak-892123234/) [Gmail](mailto:jacekroszak.poczta@gmail.com)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/jroszak) [Gmail](mailto:jacekroszak.poczta@gmail.com)
